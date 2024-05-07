@@ -1,70 +1,18 @@
-# Getting Started with Create React App
+#Degen Affirmations Frame
+Welcome to the Degen Affirmations Frame, where every interaction is a surprise. This Farcaster frame allows users to fire off a randomized affirmation or enjoy a humorous Rick Roll for a small DEGEN token fee. Whether you need a motivational boost or a good laugh, the Degen Affirmations Frame has something for everyone.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Project Overview
+The Degen Affirmations Frame blends the thrill of chance with the engaging experience of receiving personalized messages. It’s designed to enhance daily interactions within the Aaron community on Farcaster by offering a unique blend of entertainment and personal upliftment.
 
-## Available Scripts
+#Features
+Token-Based Interaction: Uses DEGEN tokens to activate the frame.
+Dynamic Affirmation Crafting: Crafts affirmations based on "vibes" sensed during the interaction.
+Surprise Element: Each pull might return a motivational affirmation or a playful Rick Roll.
+Shareability: Includes a 'Share' button to showcase your result as a frame on your Farcaster timeline.
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#How It Works
+Connect Your Wallet: Ensure your wallet is connected to use DEGEN tokens and interact with Farcaster.
+Fire an Affirmation: Hit the "Fire an Affirmation" button beneath the frame to start the process. This will deduct a few DEGEN tokens from your wallet.
+Crafting Phase: The frame will display a message, "Crafting your specific affirmation based on the vibes," while it generates your result.
+Refresh to Reveal: Click the "Refresh" button under the frame to see whether you’ve received an affirmation or a Rick Roll.
+Share Your Result: Use the 'Share' button to post your Rick Roll or affirmation directly onto your Farcaster timeline.
