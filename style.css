@@ -1,0 +1,19 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+#affirmationText {
+    margin-top: 20px;
+    font-size: 24px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
